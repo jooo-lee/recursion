@@ -1,5 +1,5 @@
 /**
- * Solutions to questions from a Code Quiz on recusion.
+ * Solutions to questions from CodinGame on recursion.
  * https://www.codingame.com/playgrounds/5422/js-interview-prep-recursion
  */
 
